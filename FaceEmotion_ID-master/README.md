@@ -1,3 +1,7 @@
+# I copied most of this code from the FaceEmotion_ID repo but changed it to make it work for this hackathon and produce art. Run the real_time_video.py file to use it.
+
+
+
 # FaceEmotion_ID
 Detects Face using Haarcascades and further detects emotion in bounded face (trained a CNN emotion detector model)
 
